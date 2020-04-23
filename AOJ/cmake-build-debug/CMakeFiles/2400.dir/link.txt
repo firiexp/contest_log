@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2400.dir/2400.cpp.o  -o 2400 

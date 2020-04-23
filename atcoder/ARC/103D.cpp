@@ -16,53 +16,39 @@ constexpr T INF = ::numeric_limits<T>::max() / 32 * 15 + 208;
 int main() {
     int n;
     cin >> n;
-    vector<int> vx, vy;
-    int a, b;
-    cin >> a >> b;
-    vx.emplace_back(a);
-    vy.emplace_back(b);
-    int p = a+b;
-    int k = abs(a)+abs(b);
-    for (int i = 0; i < n-1; ++i) {
-        int x, y;
+    vector<pair<ll, ll>> v;
+    ll k = INF<ll>;
+    for (int i = 0; i < n; ++i) {
+        ll x, y;
         cin >> x >> y;
-        vx.emplace_back(x);
-        vy.emplace_back(y);
-        k = max(k, abs(x)+abs(y));
-        if(k > 40) {
-            cout << -1 << "\n";
+        if(k == INF<ll>) k = x+y;
+        else if((k+INF<ll>)%2 != (x+y+INF<ll>)%2){
+            puts("-1");
             return 0;
         }
+        v.emplace_back(x, y);
     }
-    cout << k << "\n";
-    for (int i = 0; i < k; ++i) {
-
+    vector<ll> nums;
+    for (int j = 0; j < 37; ++j) {
+        nums.emplace_back(1LL << (36-j));
+    }
+    if((k+INF<ll>)%2==1) nums.emplace_back(1);
+    cout << nums.size() << "\n";
+    for (int i = 0; i < nums.size(); ++i) {
+        if(i) cout << " ";
+        cout << nums[i];
     }
     cout << "\n";
     for (int i = 0; i < n; ++i) {
+        ll xx, yy;
+        tie(xx, yy) = v[i];
+        ll x = xx+yy, y = xx-yy;
         string s;
-        int P = vx[i], Q = vy[i], t = 0;
-        for (int j = 0; j < k; ++j) {
-            if(P > 0){
-                s += "R";
-                P--;
-            }else if(P < 0){
-                s += "L";
-                P++;
-            }else if(Q > 0){
-                s += "U";
-                Q--;
-            }else if(Q < 0){
-                s += "D";
-                Q++;
-            }else {
-                if(t%2){
-                    s += "U";
-                }else {
-                    s += "D";
-                }
-                t++;
-            }
+        for (auto &&d : nums) {
+            if(x < 0 && y < 0) x += d, y += d, s += "L";
+            else if(x >= 0 && y >= 0) x -= d, y -= d, s += "R";
+            else if(x < 0 && y >= 0) x += d, y -= d, s += "D";
+            else x -= d, y += d, s += "U";
         }
         cout << s << "\n";
     }

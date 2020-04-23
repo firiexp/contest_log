@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2730.dir/2730.cpp.o  -o 2730 

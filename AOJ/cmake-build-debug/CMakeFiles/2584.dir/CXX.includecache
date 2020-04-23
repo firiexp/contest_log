@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/competitive-programming-code/cpp/AOJ/2584.cpp
+iostream
+-
+algorithm
+-
+iomanip
+-
+map
+-
+set
+-
+queue
+-
+stack
+-
+numeric
+-
+bitset
+-
+cmath
+-
+

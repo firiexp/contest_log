@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2311.dir/2311.cpp.o  -o 2311 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2006.dir/volume20/2006.cpp.o  -o 2006 

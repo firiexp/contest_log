@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AOJ"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aaabbb">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/aaabbb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 aaabbb"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aaabbb/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/aaabbb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 aaabbb/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2677">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2677" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2677"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2677/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2677" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2677/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2435">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2435" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2435"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2435/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2435" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2435/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2156">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2156" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2156"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2156/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2156" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2156/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2948">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2948" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2948"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2948/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2948" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2948/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1161">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/1161" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 1161"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1161/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/1161" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 1161/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1182">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/1182" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 1182"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1182/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/1182" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 1182/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2584">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2584" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2584"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2584/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2584" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2584/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2684">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2684" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2684"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2684/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2684" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2684/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGL_7_B">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/CGL_7_B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 CGL_7_B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGL_7_B/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/CGL_7_B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 CGL_7_B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGL_7_H">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/CGL_7_H" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 CGL_7_H"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGL_7_H/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/CGL_7_H" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 CGL_7_H/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2152">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2152" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2152"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2152/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2152" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2152/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2182">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2182" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2182"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2182/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2182" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2182/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cccddd">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/cccddd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 cccddd"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cccddd/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/cccddd" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 cccddd/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1195">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/1195" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 1195"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1195/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/1195" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 1195/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2402">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2402"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2402/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2402/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2945">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2945" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2945"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2945/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2945" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2945/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2157">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2157" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2157"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2157/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2157" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2157/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1611">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/1611" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 1611"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1611/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/1611" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 1611/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2536">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2536" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2536"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="2536/fast">
+				<Option output="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/2536" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/mnt/d/competitive-programming-code/cpp/AOJ/c:/lib/include/boost-1_67"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 2536/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/competitive-programming-code/cpp/AOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/1161.cpp">
+			<Option target="1161"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/1182.cpp">
+			<Option target="1182"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/1195.cpp">
+			<Option target="1195"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/1611.cpp">
+			<Option target="1611"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2152.cpp">
+			<Option target="2152"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2156.cpp">
+			<Option target="2156"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2157.cpp">
+			<Option target="2157"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2182.cpp">
+			<Option target="2182"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2402.cpp">
+			<Option target="2402"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2435.cpp">
+			<Option target="2435"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2536.cpp">
+			<Option target="2536"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2584.cpp">
+			<Option target="2584"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2677.cpp">
+			<Option target="2677"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2684.cpp">
+			<Option target="2684"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2945.cpp">
+			<Option target="2945"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/2948.cpp">
+			<Option target="2948"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/CGL_7_B.cpp">
+			<Option target="CGL_7_B"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/CGL_7_H.cpp">
+			<Option target="CGL_7_H"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/aaabbb.cpp">
+			<Option target="aaabbb"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/cccddd.cpp">
+			<Option target="cccddd"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/mnt/d/competitive-programming-code/cpp/AOJ/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

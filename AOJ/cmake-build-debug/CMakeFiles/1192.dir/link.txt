@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1192.dir/Volume11/1192.cpp.o  -o 1192 

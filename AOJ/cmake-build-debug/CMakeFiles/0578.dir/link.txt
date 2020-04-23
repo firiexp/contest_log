@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/0578.dir/Volume5/0578.cpp.o  -o 0578 

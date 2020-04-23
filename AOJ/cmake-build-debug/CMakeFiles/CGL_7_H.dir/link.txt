@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CGL_7_H.dir/CGL_7_H.cpp.o  -o CGL_7_H 

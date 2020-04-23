@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/0653.dir/Volume6/0653.cpp.o  -o 0653 

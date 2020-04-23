@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1125.dir/Volume11/1125.cpp.o  -o 1125 

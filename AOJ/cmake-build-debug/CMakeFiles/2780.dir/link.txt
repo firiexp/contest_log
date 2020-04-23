@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2780.dir/2780.cpp.o  -o 2780 

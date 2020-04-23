@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1286.dir/1286.cpp.o  -o 1286 

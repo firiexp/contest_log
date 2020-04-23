@@ -1,0 +1,129 @@
+#include <iostream>
+#include <algorithm>
+#include <iomanip>
+#include <map>
+#include <set>
+#include <queue>
+#include <stack>
+#include <numeric>
+#include <bitset>
+#include <cmath>
+#include <chrono>
+
+using ll = long long;
+using u32 = uint32_t;
+using namespace std;
+
+template<class T> constexpr T INF = ::numeric_limits<T>::max()/32*15+208;
+
+template <class T, class U>
+vector<T> make_v(U size, const T& init){ return vector<T>(static_cast<size_t>(size), init); }
+
+template<class... Ts, class U>
+auto make_v(U size, Ts... rest) { return vector<decltype(make_v(rest...))>(static_cast<size_t>(size), make_v(rest...)); }
+
+template<class T> void chmin(T &a, const T &b){ a = (a < b ? a : b); }
+template<class T> void chmax(T &a, const T &b){ a = (a > b ? a : b); }
+
+
+class xor_shift {
+    uint32_t x, y, z, w;
+public:
+    xor_shift() : x(static_cast<uint32_t>((chrono::system_clock::now().time_since_epoch().count())&((1LL << 32)-1))),
+    y(1068246329), z(321908594), w(1234567890) {};
+
+    uint32_t urand(){
+        uint32_t t;
+        t = x ^ (x << 11);
+        x = y; y = z; z = w;
+        w = (w ^ (w >> 19)) ^ (t ^ (t >> 8));
+        return w;
+    };
+
+    int rand(int n){
+        if(n < 0) return -rand(-n);
+        uint32_t t = numeric_limits<uint32_t>::max()/(n+1)*(n+1);
+        uint32_t e = urand();
+        while(e >= t) e = urand();
+        return static_cast<int>(e%(n+1));
+    }
+
+    int rand(int a, int b){
+        if(a > b) swap(a, b);
+        return a+rand(b-a);
+    }
+};
+
+
+const int M = xor_shift().rand(900000000, 1000000000);
+
+struct modint{
+    ll val;
+    modint(): val(0){}
+    template<typename T>
+    explicit modint(T t){val = t%M; if(val < 0) val += M;}
+
+    modint pow(ll k){
+        modint res(1), x(val);
+        while(k){
+            if(k&1) res *= x;
+            x *= x;
+            k >>= 1;
+        }
+        return res;
+    }
+    template<typename T>
+    modint& operator=(T a){ val = a%M; if(val < 0) val += M; return *this; }
+    modint inv() const {return pow(M - 2);}
+    modint& operator+=(modint a){ val += a.val; if(val >= M) val -= M; return *this;}
+    modint& operator-=(modint a){ val += M-a.val; if(val >= M) val -= M; return *this;}
+    modint& operator*=(modint a){ val = 1LL*val*a.val%M; return *this;}
+    modint& operator/=(modint a){ return (*this) *= a.inv();}
+    modint operator+(modint a) const {return modint(val) +=a;}
+    modint operator-(modint a) const {return modint(val) -=a;}
+    modint operator*(modint a) const {return modint(val) *=a;}
+    modint operator/(modint a) const {return modint(val) /=a;}
+    modint operator-(){ return modint(-val);}
+    bool operator==(const modint a) const {return val == a.val;}
+    bool operator!=(const modint a) const {return val != a.val;}
+    bool operator<(const modint a) const {return val < a.val;}
+};
+
+
+using mint = modint;
+
+int main() {
+    int n, k;
+    cin >> n >> k;
+    vector<int> v(n);
+    for (auto &&i : v) scanf("%d", &i);
+    auto dp = make_v(2, k+1, mint(0));
+    dp[0][0] = mint(1);
+    for (int i = 1; i <= n; ++i) {
+        int now = i&1, prv = now^1;
+        for (int j = 0; j <= k; ++j) {
+            dp[now][j] = dp[prv][j];
+            if(j >= v[i-1]) dp[now][j] += dp[prv][j-v[i-1]];
+        }
+    }
+    auto DP = dp[n%2];
+    int q;
+    cin >> q;
+    for (int i = 0; i < q; ++i) {
+        int x, u; scanf("%d %d", &x, &u);
+        vector<mint> newdp(DP); x--;
+        if(v[x]) {
+            for (int j = v[x]; j <= k; ++j) {
+                newdp[j] -= newdp[j-v[x]];
+            }
+        }
+        for (int j = 0; j <= k; ++j) {
+            DP[j] = newdp[j];
+            if(j >= u) DP[j] += newdp[j-u];
+        }
+        v[x] = u;
+        printf("%d\n", DP[k] != mint(0));
+    }
+
+    return 0;
+}

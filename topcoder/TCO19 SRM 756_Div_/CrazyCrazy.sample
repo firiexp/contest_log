@@ -1,0 +1,20 @@
+-- Example 0
+"aabb" 
+
+possible
+-- Example 1
+"abba" 
+
+impossible
+-- Example 2
+"verylazyverylazy" 
+
+possible
+-- Example 3
+"arqmpfvvbtltlhufznkldkurrazmgebfxeamrewn" 
+
+impossible
+-- Example 4
+"aacfcfqqsmksimkoioeertbrtbhphnpnggddjjll" 
+
+possible

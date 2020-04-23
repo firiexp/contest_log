@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2197.dir/Volume11/2197.cpp.o  -o 2197 

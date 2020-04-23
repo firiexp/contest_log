@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2825.dir/2825.cpp.o  -o 2825 

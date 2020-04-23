@@ -1,0 +1,20 @@
+-- Example 0
+12:12:12
+12:11:13
+
+few seconds ago
+-- Example 1
+12:12:12
+11:12:12
+
+1 hours ago
+-- Example 2
+12:12:12
+11:12:13
+
+59 minutes ago
+-- Example 3
+12:12:12
+12:12:13
+
+23 hours ago

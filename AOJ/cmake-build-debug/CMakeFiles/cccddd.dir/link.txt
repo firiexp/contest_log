@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cccddd.dir/cccddd.cpp.o  -o cccddd 

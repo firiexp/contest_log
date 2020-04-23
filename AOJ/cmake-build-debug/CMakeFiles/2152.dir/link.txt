@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2152.dir/2152.cpp.o  -o 2152 

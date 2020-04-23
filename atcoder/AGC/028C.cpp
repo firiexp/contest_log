@@ -1,41 +1,53 @@
 #include <iostream>
 #include <algorithm>
-#include <vector>
 #include <iomanip>
 #include <map>
+#include <set>
 #include <queue>
+#include <stack>
+#include <numeric>
+#include <bitset>
 
 static const int MOD = 1000000007;
 using ll = long long;
-using u32 = unsigned;
+using u32 = uint32_t;
 using namespace std;
 
-template<class T>
-constexpr T INF = ::numeric_limits<T>::max() / 32 * 15 + 208;
+template<class T> constexpr T INF = ::numeric_limits<T>::max()/32*15+208;
 
 int main() {
     int n;
-    ll ans = 0;
     cin >> n;
-    vector<int> v1(n);
-    vector<int> v2(n);
-    vector<int> used(n, 0);
-    map<int, int> m;
+    vector<int> a(n), b(n);
+    vector<pair<int, int>> v(2*n);
     for (int i = 0; i < n; ++i) {
-        scanf("%d %d", &v1[i], &v2[i]);
-        if(!m[v1[i]]) m[v1[i]] = v2[i];
-        else m[v1[i]] = INF<int>;
+        scanf("%d %d", &a[i], &b[i]);
+        v[2*i] = {a[i], 2*i}, v[2*i+1] = {b[i], 2*i+1};
     }
-    sort(v1.begin(), v1.end());
-    sort(v2.rbegin(), v2.rend());
+    sort(v.begin(), v.end());
+    vector<int> cnt(n);
+    ll ans = 0; int p = 0;
     for (int i = 0; i < n; ++i) {
-        if(m[v1[i]] != v2[i]){
-            if(used[i]) ans += min(v1[i], v2[i-1]);
-            else ans += min(v1[i], v2[i]);
-            used[i] = 1;
-        }else {
-            used[i+1] = 1;
+        cnt[v[i].second/2]++;
+        p += v[i].second % 2;
+        ans += v[i].first;
+    }
+    for (int i = 0; i < n; ++i) {
+        if(cnt[i] > 1){
+            cout << ans << "\n";
+            return 0;
         }
+    }
+    if(p == n || p == 0){
+        cout << ans << "\n";
+        return -0;
+    }
+    if(v[n].second/2 == v[n-1].second/2){
+        cout << ans +
+            min(v[n+1].first - v[n-1].first,
+                v[n].first - v[n-2].first) << "\n";
+    }else {
+        cout << ans + v[n].first - v[n-1].first << "\n";
     }
     return 0;
 }

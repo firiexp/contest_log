@@ -1,30 +1,32 @@
 #include <iostream>
 #include <algorithm>
-#include <vector>
 #include <iomanip>
 #include <map>
+#include <set>
 #include <queue>
+#include <stack>
+#include <numeric>
+#include <bitset>
+#include <cmath>
 
-static const int INF = 1000000007;
+static const int MOD = 1000000007;
 using ll = long long;
 using u32 = unsigned;
+using u64 = unsigned long long;
 using namespace std;
 
+template<class T> constexpr T INF = ::numeric_limits<T>::max()/32*15+208;
+
 int main() {
-    int n;
-    string s;
-    cin >> n >> s;
-    if(n % 2 == 0) {
-        cout << -1 << "\n";
-        return 0;
-    }
-    for (int i = 0; i < n; ++i) {
-        int c = (103 - n/2 + i)%3 + 'a';
-        if(c != s[i]) {
-            cout << -1 << "\n";
-            return 0;
+    int r, c, d;
+    cin >> r >> c >> d;
+    int ans = 0;
+    for (int i = 0; i < r; ++i) {
+        for (int j = 0; j < c; ++j) {
+            int x; scanf("%d", &x);
+            if(i+j <= d && ((i+j)&1) == (d&1)) ans = max(ans, x);
         }
     }
-    cout << n/2 << "\n";
+    cout << ans << "\n";
     return 0;
 }

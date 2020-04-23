@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2590.dir/2590.cpp.o  -o 2590 

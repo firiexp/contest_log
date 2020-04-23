@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/571.dir/Volume5/571.cpp.o  -o 571 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2582.dir/volume20/2582.cpp.o  -o 2582 

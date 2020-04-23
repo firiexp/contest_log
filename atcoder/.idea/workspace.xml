@@ -1,0 +1,2114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="atcoder" targetName="035D" />
+      <config projectName="atcoder" targetName="035C" />
+      <config projectName="atcoder" targetName="035B" />
+      <config projectName="atcoder" targetName="035A" />
+      <config projectName="atcoder" targetName="sandbox" />
+      <config projectName="atcoder" targetName="036C" />
+      <config projectName="atcoder" targetName="036B" />
+      <config projectName="atcoder" targetName="036A" />
+      <config projectName="atcoder" targetName="132F" />
+      <config projectName="atcoder" targetName="132E" />
+      <config projectName="atcoder" targetName="132D" />
+      <config projectName="atcoder" targetName="132C" />
+      <config projectName="atcoder" targetName="132B" />
+      <config projectName="atcoder" targetName="132A" />
+      <config projectName="atcoder" targetName="133F" />
+      <config projectName="atcoder" targetName="133E" />
+      <config projectName="atcoder" targetName="133D" />
+      <config projectName="atcoder" targetName="133C" />
+      <config projectName="atcoder" targetName="133B" />
+      <config projectName="atcoder" targetName="133A" />
+      <config projectName="atcoder" targetName="134F" />
+      <config projectName="atcoder" targetName="134E" />
+      <config projectName="atcoder" targetName="134D" />
+      <config projectName="atcoder" targetName="134C" />
+      <config projectName="atcoder" targetName="134B" />
+      <config projectName="atcoder" targetName="134A" />
+      <config projectName="atcoder" targetName="014D" />
+      <config projectName="atcoder" targetName="030B" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" BUILD_OPTIONS="-j 4" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2c8a607-d328-4ca1-b9a9-3c6bb42b7c2e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="atcoder" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AGC/036A.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AGC/036B.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1032">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <element signature="e#365#374#0" expanded="true" />
+                <element signature="e#565#583#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AGC/036C.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="leetcode" />
+        <option value="Atcoder template" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[]</find>
+      <find>height</find>
+      <find>a</find>
+      <find>cin</find>
+      <find>gfa</find>
+      <find>double</find>
+      <find>pr</find>
+      <find>' '</find>
+      <find>int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>p</replace>
+      <replace>long double</replace>
+      <replace>'.'</replace>
+      <replace>ll</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Other/1176B.cpp" />
+        <option value="$PROJECT_DIR$/Other/1176C.cpp" />
+        <option value="$PROJECT_DIR$/Other/1176E.cpp" />
+        <option value="$PROJECT_DIR$/Other/1176D.cpp" />
+        <option value="$PROJECT_DIR$/ABC/129F.cpp" />
+        <option value="$PROJECT_DIR$/Other/diverta2019-2-A.cpp" />
+        <option value="$PROJECT_DIR$/Other/diverta2019-2-B.cpp" />
+        <option value="$PROJECT_DIR$/Other/diverta2019-2-C.cpp" />
+        <option value="$PROJECT_DIR$/Other/diverta2019-2-D.cpp" />
+        <option value="$PROJECT_DIR$/Other/cf16_exhibition_final-D.cpp" />
+        <option value="$PROJECT_DIR$/ABC/130A.cpp" />
+        <option value="$PROJECT_DIR$/ABC/130B.cpp" />
+        <option value="$PROJECT_DIR$/ABC/130D.cpp" />
+        <option value="$PROJECT_DIR$/ABC/130E.cpp" />
+        <option value="$PROJECT_DIR$/ABC/130F.cpp" />
+        <option value="$PROJECT_DIR$/ABC/130C.cpp" />
+        <option value="$PROJECT_DIR$/ABC/131A.cpp" />
+        <option value="$PROJECT_DIR$/ABC/131B.cpp" />
+        <option value="$PROJECT_DIR$/ABC/131C.cpp" />
+        <option value="$PROJECT_DIR$/ABC/131D.cpp" />
+        <option value="$PROJECT_DIR$/ABC/131F.cpp" />
+        <option value="$PROJECT_DIR$/ABC/131E.cpp" />
+        <option value="$PROJECT_DIR$/aab.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ABC/132B.cpp" />
+        <option value="$PROJECT_DIR$/ABC/132A.cpp" />
+        <option value="$PROJECT_DIR$/ABC/132C.cpp" />
+        <option value="$PROJECT_DIR$/ABC/132D.cpp" />
+        <option value="$PROJECT_DIR$/ABC/132E.cpp" />
+        <option value="$PROJECT_DIR$/ABC/132F.cpp" />
+        <option value="$PROJECT_DIR$/ABC/133B.cpp" />
+        <option value="$PROJECT_DIR$/ABC/133A.cpp" />
+        <option value="$PROJECT_DIR$/ABC/133C.cpp" />
+        <option value="$PROJECT_DIR$/ABC/133E.cpp" />
+        <option value="$PROJECT_DIR$/ABC/133F.cpp" />
+        <option value="$PROJECT_DIR$/ABC/133D.cpp" />
+        <option value="$PROJECT_DIR$/sandbox.cpp" />
+        <option value="$PROJECT_DIR$/ABC/014D.cpp" />
+        <option value="$PROJECT_DIR$/030B.cpp" />
+        <option value="$PROJECT_DIR$/AGC/035A.cpp" />
+        <option value="$PROJECT_DIR$/AGC/035B.cpp" />
+        <option value="$PROJECT_DIR$/AGC/035D.cpp" />
+        <option value="$PROJECT_DIR$/ABC/134A.cpp" />
+        <option value="$PROJECT_DIR$/ABC/134B.cpp" />
+        <option value="$PROJECT_DIR$/ABC/134C.cpp" />
+        <option value="$PROJECT_DIR$/ABC/134D.cpp" />
+        <option value="$PROJECT_DIR$/ABC/134E.cpp" />
+        <option value="$PROJECT_DIR$/ABC/134F.cpp" />
+        <option value="$PROJECT_DIR$/AGC/036A.cpp" />
+        <option value="$PROJECT_DIR$/AGC/036C.cpp" />
+        <option value="$PROJECT_DIR$/AGC/036B.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="false" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="944" />
+    <option name="y" value="1" />
+    <option name="width" value="984" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="atcoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="AGC" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codeforces" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\competitive-programming-code\cpp\AtCoder\ARC" />
+      <recent name="D:\products\AtCoder\Other" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.036B">
+    <configuration name="014D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="014D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="014D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="030B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="030B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="030B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="035A" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="035A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="035A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="035B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="035B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="035B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="035C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="035C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="035C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="035D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="035D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="035D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="036A" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="036A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="036A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="036B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="036B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="036B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="036C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="036C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="036C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="132A" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="132A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="132A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="132B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="132B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="132B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="132C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="132C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="132C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="132D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="132D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="132D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="132E" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="132E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="132E">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="132F" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="132F" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="132F">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="133A" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="133A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="133A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="133B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="133B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="133B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="133C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="133C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="133C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="133D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="133D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="133D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="133E" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="133E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="133E">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="133F" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="133F" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="133F">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="134A" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="134A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="134A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="134B" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="134B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="134B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="134C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="134C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="134C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="134D" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="134D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="134D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="134E" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="134E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="134E">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="134F" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="134F" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="134F">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sandbox" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="atcoder" TARGET_NAME="sandbox" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="atcoder" RUN_TARGET_NAME="sandbox">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.014D" />
+      <item itemvalue="CMake Application.030B" />
+      <item itemvalue="CMake Application.035A" />
+      <item itemvalue="CMake Application.035B" />
+      <item itemvalue="CMake Application.035C" />
+      <item itemvalue="CMake Application.035D" />
+      <item itemvalue="CMake Application.036A" />
+      <item itemvalue="CMake Application.036B" />
+      <item itemvalue="CMake Application.036C" />
+      <item itemvalue="CMake Application.132A" />
+      <item itemvalue="CMake Application.132B" />
+      <item itemvalue="CMake Application.132C" />
+      <item itemvalue="CMake Application.132D" />
+      <item itemvalue="CMake Application.132E" />
+      <item itemvalue="CMake Application.132F" />
+      <item itemvalue="CMake Application.133A" />
+      <item itemvalue="CMake Application.133B" />
+      <item itemvalue="CMake Application.133C" />
+      <item itemvalue="CMake Application.133D" />
+      <item itemvalue="CMake Application.133E" />
+      <item itemvalue="CMake Application.133F" />
+      <item itemvalue="CMake Application.134A" />
+      <item itemvalue="CMake Application.134B" />
+      <item itemvalue="CMake Application.134C" />
+      <item itemvalue="CMake Application.134D" />
+      <item itemvalue="CMake Application.134E" />
+      <item itemvalue="CMake Application.134F" />
+      <item itemvalue="CMake Application.sandbox" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2c8a607-d328-4ca1-b9a9-3c6bb42b7c2e" name="Default Changelist" comment="" />
+      <created>1544262011262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544262011262</updated>
+      <workItem from="1544262012863" duration="232000" />
+      <workItem from="1544262259268" duration="812000" />
+      <workItem from="1544263093902" duration="789000" />
+      <workItem from="1544269675880" duration="4573000" />
+      <workItem from="1544353305162" duration="895000" />
+      <workItem from="1544431382213" duration="4251000" />
+      <workItem from="1544607761541" duration="2055000" />
+      <workItem from="1544622029673" duration="818000" />
+      <workItem from="1544683407900" duration="9005000" />
+      <workItem from="1544777676090" duration="3040000" />
+      <workItem from="1544874696816" duration="5549000" />
+      <workItem from="1544886298720" duration="2741000" />
+      <workItem from="1544945850219" duration="823000" />
+      <workItem from="1545042155286" duration="1683000" />
+      <workItem from="1545220908976" duration="717000" />
+      <workItem from="1545305748330" duration="1841000" />
+      <workItem from="1545380514416" duration="246000" />
+      <workItem from="1545388569009" duration="207000" />
+      <workItem from="1545469661494" duration="127000" />
+      <workItem from="1545478861342" duration="8733000" />
+      <workItem from="1545560641106" duration="3264000" />
+      <workItem from="1545571367434" duration="4000" />
+      <workItem from="1545623436285" duration="9704000" />
+      <workItem from="1545641343664" duration="685000" />
+      <workItem from="1545642401684" duration="4507000" />
+      <workItem from="1545696047188" duration="8992000" />
+      <workItem from="1545739472049" duration="1561000" />
+      <workItem from="1545787118000" duration="5476000" />
+      <workItem from="1545832213576" duration="154000" />
+      <workItem from="1545902019975" duration="4697000" />
+      <workItem from="1545981208550" duration="4547000" />
+      <workItem from="1546008205520" duration="25000" />
+      <workItem from="1546066431785" duration="3979000" />
+      <workItem from="1546084134409" duration="4500000" />
+      <workItem from="1546096289943" duration="40000" />
+      <workItem from="1546149856664" duration="7743000" />
+      <workItem from="1546164748168" duration="4416000" />
+      <workItem from="1546217346627" duration="6194000" />
+      <workItem from="1546315184137" duration="2962000" />
+      <workItem from="1546406581342" duration="163000" />
+      <workItem from="1546411393693" duration="3630000" />
+      <workItem from="1546493789786" duration="5383000" />
+      <workItem from="1546527384343" duration="736000" />
+      <workItem from="1546567408876" duration="8251000" />
+      <workItem from="1546592650891" duration="3088000" />
+      <workItem from="1546636767598" duration="2322000" />
+      <workItem from="1546664267759" duration="5449000" />
+      <workItem from="1546737459582" duration="7426000" />
+      <workItem from="1546771895136" duration="11611000" />
+      <workItem from="1546852938946" duration="7169000" />
+      <workItem from="1546942467452" duration="2922000" />
+      <workItem from="1546952065144" duration="6260000" />
+      <workItem from="1547024986672" duration="1296000" />
+      <workItem from="1547084247119" duration="7349000" />
+      <workItem from="1547199949659" duration="4220000" />
+      <workItem from="1547211707795" duration="34000" />
+      <workItem from="1547256765692" duration="3232000" />
+      <workItem from="1547293707233" duration="5531000" />
+      <workItem from="1547378701511" duration="7757000" />
+      <workItem from="1547556629417" duration="81000" />
+      <workItem from="1547628810183" duration="917000" />
+      <workItem from="1547635926590" duration="4370000" />
+      <workItem from="1547714338008" duration="1411000" />
+      <workItem from="1547788062213" duration="1173000" />
+      <workItem from="1547805364750" duration="6594000" />
+      <workItem from="1547896228209" duration="1763000" />
+      <workItem from="1547951062626" duration="5728000" />
+      <workItem from="1547978933845" duration="8250000" />
+      <workItem from="1547992824739" duration="2327000" />
+      <workItem from="1548070316484" duration="4029000" />
+      <workItem from="1548080474868" duration="664000" />
+      <workItem from="1548246276453" duration="2064000" />
+      <workItem from="1548288890570" duration="3519000" />
+      <workItem from="1548470408479" duration="8479000" />
+      <workItem from="1548529722891" duration="13413000" />
+      <workItem from="1548589519627" duration="7139000" />
+      <workItem from="1548666147719" duration="579000" />
+      <workItem from="1548751860406" duration="173000" />
+      <workItem from="1548845721207" duration="505000" />
+      <workItem from="1548850286848" duration="366000" />
+      <workItem from="1548854826667" duration="397000" />
+      <workItem from="1548899199058" duration="1090000" />
+      <workItem from="1548907311382" duration="10981000" />
+      <workItem from="1548994149597" duration="13345000" />
+      <workItem from="1549073908337" duration="6130000" />
+      <workItem from="1549088035206" duration="2581000" />
+      <workItem from="1549094333143" duration="810000" />
+      <workItem from="1549176760219" duration="1485000" />
+      <workItem from="1549194826134" duration="2697000" />
+      <workItem from="1549201258690" duration="2314000" />
+      <workItem from="1549275897935" duration="6310000" />
+      <workItem from="1549284871698" duration="2087000" />
+      <workItem from="1549357055649" duration="3870000" />
+      <workItem from="1549368987477" duration="1965000" />
+      <workItem from="1549419074879" duration="2618000" />
+      <workItem from="1549423128653" duration="5967000" />
+      <workItem from="1549440283853" duration="3555000" />
+      <workItem from="1549501916169" duration="8551000" />
+      <workItem from="1549528838849" duration="5432000" />
+      <workItem from="1549617108062" duration="11499000" />
+      <workItem from="1549680717289" duration="14193000" />
+      <workItem from="1549712477771" duration="8320000" />
+      <workItem from="1549770125053" duration="1223000" />
+      <workItem from="1549789120915" duration="5062000" />
+      <workItem from="1549858916884" duration="9816000" />
+      <workItem from="1549876490067" duration="11000" />
+      <workItem from="1549879193463" duration="7455000" />
+      <workItem from="1549890883036" duration="1696000" />
+      <workItem from="1549900014910" duration="763000" />
+      <workItem from="1549936395628" duration="2379000" />
+      <workItem from="1549952052889" duration="11386000" />
+      <workItem from="1550028496369" duration="7366000" />
+      <workItem from="1550099920260" duration="2795000" />
+      <workItem from="1550212186358" duration="8094000" />
+      <workItem from="1550280056538" duration="7259000" />
+      <workItem from="1550292446943" duration="1292000" />
+      <workItem from="1550303452250" duration="1032000" />
+      <workItem from="1550305723031" duration="3156000" />
+      <workItem from="1550317860863" duration="4063000" />
+      <workItem from="1550372096896" duration="12521000" />
+      <workItem from="1550390926261" duration="4663000" />
+      <workItem from="1550395869571" duration="1023000" />
+      <workItem from="1550404252613" duration="15000" />
+      <workItem from="1550471087074" duration="1757000" />
+      <workItem from="1550486557624" duration="6706000" />
+      <workItem from="1550545824157" duration="2575000" />
+      <workItem from="1550560662159" duration="4478000" />
+      <workItem from="1550582372201" duration="5404000" />
+      <workItem from="1550625312891" duration="13774000" />
+      <workItem from="1550667944576" duration="2494000" />
+      <workItem from="1550749075427" duration="2630000" />
+      <workItem from="1550825474019" duration="6224000" />
+      <workItem from="1550837539605" duration="12000" />
+      <workItem from="1550897286641" duration="7520000" />
+      <workItem from="1550958214637" duration="7906000" />
+      <workItem from="1551006003016" duration="6162000" />
+      <workItem from="1551086551898" duration="7952000" />
+      <workItem from="1551159928235" duration="2515000" />
+      <workItem from="1551173511122" duration="397000" />
+      <workItem from="1551183639834" duration="1214000" />
+      <workItem from="1551238041800" duration="8490000" />
+      <workItem from="1551253257501" duration="58000" />
+      <workItem from="1551255589948" duration="1872000" />
+      <workItem from="1551323547717" duration="192000" />
+      <workItem from="1551360222729" duration="5056000" />
+      <workItem from="1551408810634" duration="5214000" />
+      <workItem from="1551429310951" duration="6609000" />
+      <workItem from="1551493117721" duration="2703000" />
+      <workItem from="1551510269086" duration="4000" />
+      <workItem from="1551584138627" duration="5047000" />
+      <workItem from="1551614059811" duration="2828000" />
+      <workItem from="1551680003700" duration="952000" />
+      <workItem from="1551769986337" duration="1487000" />
+      <workItem from="1551779121136" duration="6222000" />
+      <workItem from="1551829645193" duration="10368000" />
+      <workItem from="1551863468056" duration="3967000" />
+      <workItem from="1551871563120" duration="3491000" />
+      <workItem from="1551912919671" duration="3919000" />
+      <workItem from="1551920976977" duration="4000" />
+      <workItem from="1552015085270" duration="343000" />
+      <workItem from="1552016042660" duration="1810000" />
+      <workItem from="1552055594982" duration="1411000" />
+      <workItem from="1552104476433" duration="6516000" />
+      <workItem from="1552131063955" duration="4651000" />
+      <workItem from="1552140195786" duration="1216000" />
+      <workItem from="1552188562497" duration="7157000" />
+      <workItem from="1552203244169" duration="4000" />
+      <workItem from="1552216600953" duration="103000" />
+      <workItem from="1552265313103" duration="888000" />
+      <workItem from="1552294971783" duration="7453000" />
+      <workItem from="1552353973154" duration="65000" />
+      <workItem from="1552387218303" duration="5063000" />
+      <workItem from="1552460940803" duration="3524000" />
+      <workItem from="1552480316340" duration="10000" />
+      <workItem from="1552527891397" duration="2161000" />
+      <workItem from="1552618098359" duration="2621000" />
+      <workItem from="1552710867755" duration="11832000" />
+      <workItem from="1552737050294" duration="5756000" />
+      <workItem from="1552787515576" duration="2864000" />
+      <workItem from="1552807750404" duration="246000" />
+      <workItem from="1552895847649" duration="4376000" />
+      <workItem from="1552915424720" duration="20000" />
+      <workItem from="1552980299807" duration="6217000" />
+      <workItem from="1553052533833" duration="1879000" />
+      <workItem from="1553070560543" duration="112000" />
+      <workItem from="1553084196302" duration="6344000" />
+      <workItem from="1553091783569" duration="8271000" />
+      <workItem from="1553132314997" duration="3385000" />
+      <workItem from="1553164523098" duration="395000" />
+      <workItem from="1553227260384" duration="17667000" />
+      <workItem from="1553303414488" duration="3016000" />
+      <workItem from="1553313332573" duration="1348000" />
+      <workItem from="1553335244578" duration="141000" />
+      <workItem from="1553345167721" duration="5861000" />
+      <workItem from="1553391538742" duration="2882000" />
+      <workItem from="1553428239475" duration="6735000" />
+      <workItem from="1553483326808" duration="3678000" />
+      <workItem from="1553566666160" duration="3590000" />
+      <workItem from="1553578443438" duration="613000" />
+      <workItem from="1553600109000" duration="118000" />
+      <workItem from="1553653012067" duration="1205000" />
+      <workItem from="1553671540651" duration="21000" />
+      <workItem from="1553740387325" duration="3687000" />
+      <workItem from="1553762074090" duration="312000" />
+      <workItem from="1553774973716" duration="1219000" />
+      <workItem from="1553778200419" duration="3302000" />
+      <workItem from="1553829282451" duration="7431000" />
+      <workItem from="1553915306169" duration="596000" />
+      <workItem from="1553925634400" duration="25000" />
+      <workItem from="1553925674937" duration="7000" />
+      <workItem from="1553933047899" duration="3089000" />
+      <workItem from="1553946555090" duration="7732000" />
+      <workItem from="1553991613436" duration="5388000" />
+      <workItem from="1554010238430" duration="5491000" />
+      <workItem from="1554024934990" duration="64000" />
+      <workItem from="1554035155124" duration="1239000" />
+      <workItem from="1554084253297" duration="11419000" />
+      <workItem from="1554112168314" duration="8000" />
+      <workItem from="1554171912317" duration="1200000" />
+      <workItem from="1554257627412" duration="4248000" />
+      <workItem from="1554277459702" duration="46000" />
+      <workItem from="1554337640365" duration="1924000" />
+      <workItem from="1554423485099" duration="1156000" />
+      <workItem from="1554430852910" duration="650000" />
+      <workItem from="1554460765868" duration="11000" />
+      <workItem from="1554532312247" duration="2373000" />
+      <workItem from="1554549302801" duration="3000" />
+      <workItem from="1554551637419" duration="6708000" />
+      <workItem from="1554624915523" duration="3104000" />
+      <workItem from="1554639383289" duration="16000" />
+      <workItem from="1554711727200" duration="2221000" />
+      <workItem from="1554794423460" duration="2446000" />
+      <workItem from="1554811293737" duration="1579000" />
+      <workItem from="1554812925064" duration="3897000" />
+      <workItem from="1554986353542" duration="599000" />
+      <workItem from="1554988251569" duration="3344000" />
+      <workItem from="1555044749875" duration="4216000" />
+      <workItem from="1555070033193" duration="656000" />
+      <workItem from="1555136947411" duration="4445000" />
+      <workItem from="1555156441229" duration="4470000" />
+      <workItem from="1555214365362" duration="1195000" />
+      <workItem from="1555238706662" duration="1738000" />
+      <workItem from="1555243211358" duration="4451000" />
+      <workItem from="1555252472645" duration="5000" />
+      <workItem from="1555313118071" duration="7751000" />
+      <workItem from="1555569945717" duration="2354000" />
+      <workItem from="1555580102787" duration="617000" />
+      <workItem from="1555587582468" duration="6531000" />
+      <workItem from="1555673666392" duration="1878000" />
+      <workItem from="1555720774885" duration="1897000" />
+      <workItem from="1555738774910" duration="3483000" />
+      <workItem from="1555757393581" duration="11205000" />
+      <workItem from="1555804679188" duration="2777000" />
+      <workItem from="1555917177894" duration="4051000" />
+      <workItem from="1555923834382" duration="3484000" />
+      <workItem from="1555941608529" duration="601000" />
+      <workItem from="1555944267259" duration="685000" />
+      <workItem from="1555945065531" duration="949000" />
+      <workItem from="1556104228357" duration="307000" />
+      <workItem from="1556104546951" duration="203000" />
+      <workItem from="1556104770567" duration="386000" />
+      <workItem from="1556105562311" duration="126000" />
+      <workItem from="1556107154891" duration="43000" />
+      <workItem from="1556107900954" duration="3856000" />
+      <workItem from="1556112188524" duration="616000" />
+      <workItem from="1556112901487" duration="2526000" />
+      <workItem from="1556197919078" duration="339000" />
+      <workItem from="1556266898988" duration="4350000" />
+      <workItem from="1556348551915" duration="22888000" />
+      <workItem from="1556415718657" duration="14055000" />
+      <workItem from="1556439444950" duration="1501000" />
+      <workItem from="1556526662594" duration="15377000" />
+      <workItem from="1556547334454" duration="505000" />
+      <workItem from="1556596158080" duration="19721000" />
+      <workItem from="1556681625245" duration="6882000" />
+      <workItem from="1556701834303" duration="2344000" />
+      <workItem from="1556710922441" duration="721000" />
+      <workItem from="1556718730041" duration="820000" />
+      <workItem from="1556752745437" duration="895000" />
+      <workItem from="1556769255550" duration="18315000" />
+      <workItem from="1556791735646" duration="2184000" />
+      <workItem from="1556805316386" duration="273000" />
+      <workItem from="1556864842258" duration="28000" />
+      <workItem from="1556873232249" duration="8791000" />
+      <workItem from="1556934704443" duration="3427000" />
+      <workItem from="1556941905623" duration="14490000" />
+      <workItem from="1556970627078" duration="8491000" />
+      <workItem from="1557019161507" duration="3023000" />
+      <workItem from="1557031943778" duration="8352000" />
+      <workItem from="1557126867565" duration="3805000" />
+      <workItem from="1557134926033" duration="2751000" />
+      <workItem from="1557147118411" duration="84000" />
+      <workItem from="1557225676855" duration="8349000" />
+      <workItem from="1557315724842" duration="1388000" />
+      <workItem from="1557320325962" duration="8622000" />
+      <workItem from="1557401377673" duration="2498000" />
+      <workItem from="1557474870666" duration="7939000" />
+      <workItem from="1557548015742" duration="2106000" />
+      <workItem from="1557575111309" duration="13734000" />
+      <workItem from="1557633557322" duration="2474000" />
+      <workItem from="1557731554207" duration="1316000" />
+      <workItem from="1557750320709" duration="2000" />
+      <workItem from="1557819077727" duration="1963000" />
+      <workItem from="1557845846733" duration="209000" />
+      <workItem from="1557921781467" duration="1069000" />
+      <workItem from="1557929267634" duration="696000" />
+      <workItem from="1558011185706" duration="175000" />
+      <workItem from="1558162520476" duration="2052000" />
+      <workItem from="1558165586033" duration="1001000" />
+      <workItem from="1558184611068" duration="1712000" />
+      <workItem from="1558231758922" duration="1315000" />
+      <workItem from="1558266725289" duration="8347000" />
+      <workItem from="1558350858546" duration="1734000" />
+      <workItem from="1558440947383" duration="3156000" />
+      <workItem from="1558528604435" duration="1280000" />
+      <workItem from="1558604158036" duration="6654000" />
+      <workItem from="1558681362549" duration="9648000" />
+      <workItem from="1558759671819" duration="3032000" />
+      <workItem from="1558770520344" duration="3801000" />
+      <workItem from="1558784782656" duration="7657000" />
+      <workItem from="1558870863758" duration="11118000" />
+      <workItem from="1558955784380" duration="1621000" />
+      <workItem from="1559042612951" duration="1884000" />
+      <workItem from="1559135093305" duration="558000" />
+      <workItem from="1559214311509" duration="3506000" />
+      <workItem from="1559389803002" duration="7546000" />
+      <workItem from="1559405473589" duration="2733000" />
+      <workItem from="1559476231876" duration="4916000" />
+      <workItem from="1559731150399" duration="3553000" />
+      <workItem from="1559824120239" duration="2594000" />
+      <workItem from="1560080782286" duration="12444000" />
+      <workItem from="1560154229140" duration="60000" />
+      <workItem from="1560154296634" duration="6284000" />
+      <workItem from="1560391220677" duration="40000" />
+      <workItem from="1560391391286" duration="58000" />
+      <workItem from="1560391573053" duration="260000" />
+      <workItem from="1560599237876" duration="9485000" />
+      <workItem from="1560649501997" duration="1204000" />
+      <workItem from="1560685881702" duration="7217000" />
+      <workItem from="1560940437717" duration="1435000" />
+      <workItem from="1561122867179" duration="944000" />
+      <workItem from="1561123966464" duration="1635000" />
+      <workItem from="1561203926703" duration="4955000" />
+      <workItem from="1561217959939" duration="182000" />
+      <workItem from="1561219903448" duration="1585000" />
+      <workItem from="1561808512948" duration="9637000" />
+      <workItem from="1562500360591" duration="5854000" />
+      <workItem from="1562763844658" duration="4225000" />
+      <workItem from="1563025186741" duration="22000" />
+      <workItem from="1563028884244" duration="77000" />
+      <workItem from="1563105088347" duration="4292000" />
+      <workItem from="1563623554402" duration="6285000" />
+      <workItem from="1563709943342" duration="7408000" />
+      <workItem from="1563869540786" duration="367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1349359000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="944" y="1" width="984" height="1049" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.30676857" side_tool="true" weight="0.28192163" />
+      <window_info id="Favorites" order="1" sideWeight="0.30388692" side_tool="true" weight="0.21650718" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.69323146" visible="true" weight="0.19155844" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4995752" weight="0.32822758" />
+      <window_info active="true" anchor="bottom" x="-1907" y="11" width="807" height="534" id="Run" order="2" sideWeight="0.61204016" visible="true" weight="0.23253275" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6265329" weight="0.52401745" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4952153" weight="0.32779098" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49880382" weight="0.32620922" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38907468" side_tool="true" weight="0.48931384" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" sideWeight="0.49386844" weight="0.29803494" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.53400224" weight="0.4923581" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.024232633" />
+      <window_info anchor="right" id="Database" order="4" weight="0.033259425" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69611305" visible="true" weight="0.27433628" />
+      <window_info id="Structure" order="1" sideWeight="0.30457747" side_tool="true" weight="0.21650718" />
+      <window_info id="Favorites" order="2" sideWeight="0.30388692" side_tool="true" weight="0.21650718" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4995752" weight="0.32822758" />
+      <window_info active="true" anchor="bottom" x="-1907" y="11" width="807" height="534" id="Run" order="2" sideWeight="0.61204016" visible="true" weight="0.22925764" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6265329" weight="0.52401745" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4952153" weight="0.32779098" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49880382" weight="0.32620922" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38907468" side_tool="true" weight="0.48931384" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" sideWeight="0.49386844" weight="0.29803494" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.53400224" weight="0.4923581" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.024232633" />
+      <window_info anchor="right" id="Database" order="4" weight="0.033259425" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/054B.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/054B.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/067E.cpp</url>
+          <line>77</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/067E.cpp</url>
+          <line>89</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/070B.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/075C.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/029B.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/029B.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/029B.cpp</url>
+          <line>26</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/caddi2018-C.cpp</url>
+          <line>149</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/pakencamp-2018-day2-B.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/xmas2018-B.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/pakencamp-2018-day3-D.cpp</url>
+          <line>81</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/pakencamp-2018-day3-D.cpp</url>
+          <line>74</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/pakencamp-2018-day3-D.cpp</url>
+          <line>85</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/pakencamp_2018_day3-E.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/pakencamp_2018_day3-F.cpp</url>
+          <line>38</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/026B.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/086D.cpp</url>
+          <line>26</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/086D.cpp</url>
+          <line>42</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/086D.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/097E.cpp</url>
+          <line>49</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/098E.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/030B.cpp</url>
+          <line>49</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/030B.cpp</url>
+          <line>53</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/100B.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/037D.cpp</url>
+          <line>53</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/085E.cpp</url>
+          <line>124</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/085E.cpp</url>
+          <line>120</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/aaaaaaaaa.cpp</url>
+          <line>89</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/116D.cpp</url>
+          <line>50</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/029D.cpp</url>
+          <line>47</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/015C.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/nikkei2019-qual-D.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/code_festival_2018_final-D.cpp</url>
+          <line>83</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/code_thanks_festival_2018-G.cpp</url>
+          <line>105</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/code_thanks_festival_2017-G.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/022B.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/117D.cpp</url>
+          <line>55</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/117C.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/code_festival_2018_final-F.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/058E.cpp</url>
+          <line>55</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/069E.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/aaa.cpp</url>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/keyence2019-E.cpp</url>
+          <line>133</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/002B.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/008B.cpp</url>
+          <line>36</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/011B.cpp</url>
+          <line>28</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/118A.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/081F.cpp</url>
+          <line>66</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/082F.cpp</url>
+          <line>45</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/021B.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/028B.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/028B.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/joisc2008_nile.cpp</url>
+          <line>50</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/joisc2008_nile.cpp</url>
+          <line>56</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/091E.cpp</url>
+          <line>55</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/120D.cpp</url>
+          <line>56</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/022D.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/030D.cpp</url>
+          <line>21</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/038D.cpp</url>
+          <line>97</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/121C.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/121B.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/wupc2019-B.cpp</url>
+          <line>91</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/099C.cpp</url>
+          <line>112</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/005C.cpp</url>
+          <line>37</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/017D.cpp</url>
+          <line>53</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/aaa.cpp</url>
+          <line>188</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/aaa.cpp</url>
+          <line>185</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/codefestival_2015_qualA-C.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/yahoo_procon2019_final-B.cpp</url>
+          <line>85</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cf17_final-D.cpp</url>
+          <line>50</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cf_2015_morning_easy-C.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cf_2015_morning_easy-D.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/joisc2011_banner.cpp</url>
+          <line>65</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/017D.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/exawizards2019-D.cpp</url>
+          <line>95</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/exawizards2019-C.cpp</url>
+          <line>57</line>
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/022C.cpp</url>
+          <line>99</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/joisc2014_h.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/027B.cpp</url>
+          <line>26</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/018B.cpp</url>
+          <line>46</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/nikkei2019_final-E.cpp</url>
+          <line>38</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/123D.cpp</url>
+          <line>42</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/054C.cpp</url>
+          <line>46</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/tdpc-D.cpp</url>
+          <line>56</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/059F.cpp</url>
+          <line>67</line>
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/tenka1_2016_final-D.cpp</url>
+          <line>72</line>
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/025C.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/009D.cpp</url>
+          <line>159</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/tenka1-2016-final-open.cpp</url>
+          <line>100</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/ddcc_2016_final-C.cpp</url>
+          <line>38</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/002D.cpp</url>
+          <line>83</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/tenka1-2019-E.cpp</url>
+          <line>43</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/tenka1-2019-D.cpp</url>
+          <line>65</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/tenka1_2019-E.cpp</url>
+          <line>51</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/tenka1_2018-E.cpp</url>
+          <line>83</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/011D.cpp</url>
+          <line>68</line>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/011D.cpp</url>
+          <line>65</line>
+          <option name="timeStamp" value="365" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/045C.cpp</url>
+          <line>56</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/017C.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/iroha2019-day1-E.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/iroha2019-day1-K.cpp</url>
+          <line>48</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/iroha2019-day1-H.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/iroha2019-day1-I.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/030B.cpp</url>
+          <line>58</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/042C.cpp</url>
+          <line>42</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/iroha2019-day2-F.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/027C.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019-s1-B.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="406" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019-s1-C.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019-s1-C.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="408" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/033C.cpp</url>
+          <line>56</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019-s2-B.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019-s2-C.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019-s3-C.cpp</url>
+          <line>39</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019-s3-F.cpp</url>
+          <line>92</line>
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019-s4-C.cpp</url>
+          <line>34</line>
+          <option name="timeStamp" value="423" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/074E.cpp</url>
+          <line>89</line>
+          <option name="timeStamp" value="424" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/cpsco2019_s2-E.cpp</url>
+          <line>68</line>
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/diverta2019-E.cpp</url>
+          <line>61</line>
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/008D.cpp</url>
+          <line>43</line>
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/bbbbbbb.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ARC/084E.cpp</url>
+          <line>36</line>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/yahoo_procon2019_final_c.cpp</url>
+          <line>141</line>
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/chokudai_S002-F.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/chokudai_S002-L.cpp</url>
+          <line>56</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/127C.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/127D.cpp</url>
+          <line>47</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/127E.cpp</url>
+          <line>82</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/relay2018-D.cpp</url>
+          <line>40</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/m-solutions2019-C.cpp</url>
+          <line>86</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/m-solutions2019-C.cpp</url>
+          <line>84</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/034B.cpp</url>
+          <line>38</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/129D.cpp</url>
+          <line>70</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/129E.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="481" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/129E.cpp</url>
+          <line>53</line>
+          <option name="timeStamp" value="482" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/1176B.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/1176C.cpp</url>
+          <line>45</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/1176D.cpp</url>
+          <line>44</line>
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/129F.cpp</url>
+          <line>149</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/129F.cpp</url>
+          <line>152</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/diverta2019-2-B.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/diverta2019-2-D.cpp</url>
+          <line>47</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Other/diverta2019-2-D.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="505" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/130D.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="506" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/130D.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="507" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/130C.cpp</url>
+          <line>1</line>
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/130E.cpp</url>
+          <line>47</line>
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/130F.cpp</url>
+          <line>47</line>
+          <option name="timeStamp" value="516" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/132C.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/132F.cpp</url>
+          <line>86</line>
+          <option name="timeStamp" value="524" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/133E.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="525" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/133D.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/133E.cpp</url>
+          <line>66</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/133E.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/030B.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/035A.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/035A.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/134C.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/134E.cpp</url>
+          <line>79</line>
+          <option name="timeStamp" value="543" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ABC/134E.cpp</url>
+          <line>60</line>
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AGC/036C.cpp</url>
+          <line>66</line>
+          <option name="timeStamp" value="548" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="v" language="ObjectiveC" />
+        <watch expression="res" language="ObjectiveC" />
+        <watch expression="ar" language="ObjectiveC" />
+        <watch expression="dp" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>dp</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ar</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>primes</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pprims</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>l</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>b</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>k</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>key_t</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>v</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/include/c++/7/debug/array">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/126E.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/130A.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/130B.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/130C.cpp" />
+    <entry file="file://$PROJECT_DIR$/aaa.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aaabbb.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/130D.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/130E.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/130F.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/131A.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/131B.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/131C.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/131D.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/131E.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/131F.cpp" />
+    <entry file="file://$PROJECT_DIR$/ABC/132A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aab.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/132B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="25" column="25" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/132C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/132D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="63" column="42" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="e#364#373#0" expanded="true" />
+            <element signature="e#570#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/132E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="55" column="29" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <element signature="e#364#376#0" expanded="true" />
+            <element signature="e#560#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/132F.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="67" column="18" lean-forward="true" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+          <folding>
+            <element signature="e#363#382#0" expanded="true" />
+            <element signature="e#445#457#0" expanded="true" />
+            <element signature="e#708#720#0" expanded="true" />
+            <element signature="e#1673#1691#0" expanded="true" />
+            <element signature="e#1795#1817#0" expanded="true" />
+            <element signature="e#1949#1958#0" expanded="true" />
+            <element signature="e#2020#2029#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/include/c++/7/debug/vector">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="416" selection-start-line="416" selection-end-line="416" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/133A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/133B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="e#364#382#0" expanded="true" />
+            <element signature="e#486#508#0" expanded="true" />
+            <element signature="e#640#649#0" expanded="true" />
+            <element signature="e#711#720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/133C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="18" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/133D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alp.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bbbbbbb.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="12" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_sosu.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" selection-start-line="17" selection-end-line="55" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#325#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AGC/035A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="42" column="29" selection-end-line="48" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/014D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="e#366#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/030B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AGC/035B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AGC/035C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AGC/035D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/133E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/133F.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/include/c++/7/bits/algorithmfwd.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="352" column="4" selection-start-line="352" selection-start-column="4" selection-end-line="352" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/134A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/134B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/134C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/134D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="5" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/134E.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="58" column="2" lean-forward="true" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+          <folding>
+            <element signature="e#364#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/134F.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="e#364#382#0" expanded="true" />
+            <element signature="e#486#508#0" expanded="true" />
+            <element signature="e#640#649#0" expanded="true" />
+            <element signature="e#711#720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AGC/036A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AGC/036B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#365#374#0" expanded="true" />
+            <element signature="e#565#583#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AGC/036C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="62" column="29" lean-forward="true" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

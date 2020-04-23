@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/2018.dir/volume20/2018.cpp.o  -o 2018 

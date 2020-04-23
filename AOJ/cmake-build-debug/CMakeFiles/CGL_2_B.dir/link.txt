@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CGL_2_B.dir/CGL_2_B.cpp.o  -o CGL_2_B 
